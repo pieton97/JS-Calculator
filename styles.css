@@ -1,3 +1,6 @@
+body {
+  background-color: #cbd19c;
+}
 #main-container {
   width: 500px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.493);
